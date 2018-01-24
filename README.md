@@ -33,3 +33,5 @@ This is a vanilla web application. Tech stack outlined below
 1. Clone this repo
 2. `cd boilerplate_app`
 3. `sh bin/setup.sh`
+
+Used this Boiler plate for learning porpuses, finance tracker project.
