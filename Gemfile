@@ -10,6 +10,11 @@ gem 'figgy'
 gem 'listen' # idk why this is needed
 gem 'pg', '~> 0.18.1'
 gem 'rails', '>= 5.1'
+gem 'devise'
+gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+gem 'jquery-rails'
+gem 'devise-bootstrap-views'
+gem 'sass-rails'
 
 # front end
 gem 'webpacker'
