@@ -15,6 +15,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
 gem 'sass-rails'
+gem 'stock_quote'
 
 # front end
 gem 'webpacker'
